@@ -1,0 +1,23 @@
+{
+  "name": "scraperjs-server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~3.1.0",
+    "jasmine-node": "~1.0.28",
+    "redis": "~0.8.2",
+    "async": "~0.2.1",
+    "underscore": "~1.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leahciMic/scraperjs-server.git"
+  },
+  "author": "Michael Leaney <leahcimic@gmail.com>",
+  "license": "BSD"
+}
